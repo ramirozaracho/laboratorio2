@@ -64,13 +64,14 @@ laboratorio2.pbix — Reporte principal
 
 ---
 
-Ramiro Raul Zaracho
-ramiro.z9313@gmail.com
-https://www.linkedin.com/in/ramiro-zaracho
-
- Objetivo del Proyecto:
+# Objetivo del Proyecto:
 
 Optimizar la estrategia comercial
 
 Evaluar desempeño geográfico
 
+---
+
+Ramiro Raul Zaracho
+ramiro.z9313@gmail.com
+https://www.linkedin.com/in/ramiro-zaracho
