@@ -1,50 +1,72 @@
-Proyecto de Análisis de Datos — McDonald’s
+ Análisis de Datos de McDonald’s — Power BI
+ Descripción del Proyecto
 
-Este repositorio contiene un archivo de Power BI (.pbix) que analiza datos relacionados con las ventas de McDonald's a través de distintas tablas: Ventas, Paises, Categorias, Productos, Empleados, Calendario y Medidas. 
-El objetivo es explorar métricas clave, identificar patrones de venta y visualizar información comercial relevante.
+Este repositorio contiene un reporte desarrollado en Power BI con el objetivo de analizar el rendimiento comercial y operativo de McDonald's a través de un modelo de datos compuesto por cinco tablas principales: Ventas, Países, Categorías, Productos y Empleados.
 
-Contenido del archivo Power BI
+El proyecto permite obtener información clave sobre ventas, desempeño por región, análisis por categoría de productos, distribución geográfica y participación del personal en diferentes puntos de venta.
 
-
-📈 Indicadores incluidos
-
-El reporte Power BI permite analizar:
-
-Total de ventas por país
-
-Total de ventas por categoría
-
-Productos más vendidos
-
-Comparación entre regiones
-
-Análisis de cantidades vendidas
-
-Evolución temporal de ventas
-
-Promedios por producto, país o categoría
+---
 
  Modelo de Datos
 
-La relación entre las tablas sigue un modelo tipo copo de nieve
+El modelo sigue una arquitectura tipo copo de nieve, donde la tabla Ventas actúa como la tabla de hechos, relacionada con cuatro tablas de dimensiones.
+
+---
+
+ Indicadores y Métricas
+
+El reporte contiene un conjunto de indicadores relevantes para la operación:
+
+Ventas:
+
+Ventas totales
+
+Cantidad de unidades vendidas
+
+Promedio de venta por país
+
+Ventas por categoría y producto
 
 
-Ventas es la tabla de hechos
+Geografía:
 
-Paises, Categorias, Productos, Empleados, Calendario y Medidas son tablas de dimensiones
+Ventas por región
 
- Tecnologías utilizadas
+Desempeño por país
+
+---
+
+ Visualizaciones Incluidas
+
+Gráficos de barras y líneas
+
+Mapas geográficos
+
+Tarjetas KPI
+
+Matrices dinámicas
+
+Segmentadores por categoria y producto
+
+---
+
+ Tecnologías Utilizadas
 
 Power BI Desktop
 
-DAX para creación de medidas
+Lenguaje DAX para cálculos y medidas
 
-Visualizaciones estándar y filtros
+Transformaciones en Power Query
 
-Objetivo del proyecto
+ Archivos del Repositorio
 
-Brindar una vista integral del rendimiento comercial de McDonald's en distintos mercados, facilitando la toma de decisiones basada en datos.
+laboratorio2.pbix — Reporte principal
 
- Archivos incluidos
+---
 
-laboratorio2.pbix → archivo principal del reporte Power BI
+ Objetivo del Proyecto:
+
+Optimizar la estrategia comercial
+
+Evaluar desempeño geográfico
+
