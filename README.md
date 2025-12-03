@@ -1,4 +1,4 @@
- Análisis de Datos de McDonald’s — Power BI
+# Análisis de Datos de McDonald’s — Power BI
  Descripción del Proyecto
 
 Este repositorio contiene un reporte desarrollado en Power BI con el objetivo de analizar el rendimiento comercial y operativo de McDonald's a través de un modelo de datos compuesto por cinco tablas principales: Ventas, Países, Categorías, Productos y Empleados.
@@ -7,13 +7,13 @@ El proyecto permite obtener información clave sobre ventas, desempeño por regi
 
 ---
 
- Modelo de Datos
+# Modelo de Datos
 
 El modelo sigue una arquitectura tipo copo de nieve, donde la tabla Ventas actúa como la tabla de hechos, relacionada con cuatro tablas de dimensiones.
 
 ---
 
- Indicadores y Métricas
+# Indicadores y Métricas
 
 El reporte contiene un conjunto de indicadores relevantes para la operación:
 
@@ -36,7 +36,7 @@ Desempeño por país
 
 ---
 
- Visualizaciones Incluidas
+# Visualizaciones Incluidas:
 
 Gráficos de barras y líneas
 
@@ -50,7 +50,7 @@ Segmentadores por categoria y producto
 
 ---
 
- Tecnologías Utilizadas
+ # Tecnologías Utilizadas:
 
 Power BI Desktop
 
@@ -63,6 +63,10 @@ Transformaciones en Power Query
 laboratorio2.pbix — Reporte principal
 
 ---
+
+Ramiro Raul Zaracho
+ramiro.z9313@gmail.com
+https://www.linkedin.com/in/ramiro-zaracho
 
  Objetivo del Proyecto:
 
