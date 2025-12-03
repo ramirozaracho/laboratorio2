@@ -1,0 +1,6 @@
+1. De la tabla ventas se dividió la columna en fecha y hora.
+2. Se renombro la columna de fecha y de hora de la tabla de ventas.
+3. De la tabla empleados se elimino la columna edad ya que no era relevante para el análisis.
+4. Se creo un modelado de datos relacional esquema copo de nieve, creando la tabla dCalendar,
+con la cardinalidad de 1 a muchos hacia la tabla ventas.
+5. Se creo la tabla de _Medidas con Dax para un análisis mas prolijo
